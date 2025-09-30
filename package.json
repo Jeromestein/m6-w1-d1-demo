@@ -11,6 +11,7 @@
     "Javascript"
   ],
   "dependencies": {
+    "mongoose": "^8.18.3",
     "nodemon": "^1.18.4"
   }
 }
